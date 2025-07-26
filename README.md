@@ -35,17 +35,9 @@ This project is part of the **14-Day Back-End Web Development Learning Plan**.
 ## ✅ Status
 
 ✅ Project Completed & Tested Successfully  
-📅 Day 12 of the 14-Day Backend Plan
-## 📸 API Testing Screenshots
+📅 Day 12 of the 14-Day Backend Project
 
-### 1. GET All Products
-![Get Products](./screenshots/products-get.png)
 
-### 2. User Login
-![Login](./screenshots/login-post.png)
-
-### 3. Add to Cart
-![Add to Cart](./screenshots/cart-post.png)
 
 
 
